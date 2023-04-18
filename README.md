@@ -31,6 +31,8 @@ Some information about me...
   
 ### Front End
 
+- JavaScript <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" />
+
 ### Back End
 
 ### Tools 🛠️
