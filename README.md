@@ -27,15 +27,21 @@ Here are some ideas to get you started:
 ### Contact me
 
 <a href="https://www.linkedin.com/in/pedro-fanelli/" target="_blank">
-  <img style="width:60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
+  <img style="width:50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
 </a>
   
-### Otra cosa
+### Front End
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:385px">
+### Back End
+
+### Tools 🛠️
+  
+<hr></hr>
+
+<a href="https://github.com/pedrofanelli" style="margin-right:385px">
   <img style="width:390px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrofanelli&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat" >
+<a href="https://github.com/pedrofanelli" >
   <img style="width:390px;height:143px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanelli" />
 </a>
