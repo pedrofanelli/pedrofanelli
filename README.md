@@ -32,6 +32,10 @@ Some information about me...
 ### Front End
 
 - JavaScript <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" />
+- React <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" />
+- Redux <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" />
+- MUI <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740867-47ba0184-ddf4-47e4-a9e1-a4eb95b2a7b1.png" />
+- Bootstrap <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227771085-becaffb9-beb3-498d-af1a-a52de5c3e59c.png" />
 
 ### Back End
 
