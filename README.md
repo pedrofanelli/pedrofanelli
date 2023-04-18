@@ -1,15 +1,16 @@
-### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofanelli&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat" >
-  <img margin="20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanelli&layout=compact" />
-</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofanelli&count_private=true&show_icons=true&theme=radical)          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  ## Hello there! My name is Pedro José Fanelli Ederra 🧐
 
+</div>
+
+<div align="center">
+  
+  ### Full Stack Developer in Argentina 🇦🇷
+
+</div>
 
 Here are some ideas to get you started:
 
@@ -22,3 +23,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:385px">
+  <img style="width:390px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrofanelli&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat" >
+  <img style="width:390px;height:143px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanelli&layout=compact" />
+</a>
