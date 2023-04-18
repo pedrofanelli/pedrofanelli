@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 ### Contact me
 
 <a href="https://www.linkedin.com/in/pedro-fanelli/" target="_blank">
-  <img style="width:80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
+  <img style="width:60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
 </a>
   
 ### Otra cosa
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:385px">
-  <img style="width:390px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrofanelli&count_private=true&show_icons=true&theme=radical" />
+  <img style="width:390px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrofanelli&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat" >
