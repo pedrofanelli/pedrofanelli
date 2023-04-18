@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofanelli)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofanelli&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat" >
+  <img margin="20px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanelli&layout=compact" />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofanelli&count_private=true&show_icons=true&theme=radical)          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
