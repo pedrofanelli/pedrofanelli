@@ -14,7 +14,7 @@
 
 Some information about me...
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
   - TypeScript
   - AWS
 - 📫 How to reach me: 
