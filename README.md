@@ -26,34 +26,19 @@ Some information about me...
 
 ### Back End
 
-- Node.js <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227662838-6919336c-578b-42e9-bdad-cd70cb16b5f2.png" />
-- Express <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227771468-b84ffce0-c776-4b02-a7f7-bc5eb5bc6f8e.png" />
-- JWT <img style="width:25px" src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us" />
-- PostgreSQL <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740036-7f892401-2c8c-470f-b097-f05402428909.png" />
-- Sequelize <img style="width:22px" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" />
-- MongoDB <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740282-331ce102-7c82-4a1a-9c71-84f8701ce863.png" />
-- Mongoose <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740130-e2b772f1-f1af-47b8-86eb-de3bf9cb8128.png" />
-- AWS <img style="width:25px" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/01/AWS-Logo.png" />
-  - S3
-  - Route 53
-  - Elastic Beanstalk
-  - CloudFront
-- Google Cloud <img style="width:25px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" />
-  - Maps
-  - Storage
-- Socket.io <img style="width:25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" />
-- PWA <img style="width:25px" src="https://desarrolloweb.com/storage/tag_images/actual/VkZe5Z1PKYJNbH4fz5IsXSJPDrmFC5fXEaxfaxSF.png" />
+Node.js | Express | JWT | PostgreSQL | Sequelize | MongoDB | Mongoose | AWS (S3, R53, EB, CF) |
+--------|---------|-----|------------|-----------|---------|----------|-----------------------|
+<img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227662838-6919336c-578b-42e9-bdad-cd70cb16b5f2.png" />   | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227771468-b84ffce0-c776-4b02-a7f7-bc5eb5bc6f8e.png" /> | <img style="width:25px" src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us" /> | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740036-7f892401-2c8c-470f-b097-f05402428909.png" /> | <img style="width:22px" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" /> | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740282-331ce102-7c82-4a1a-9c71-84f8701ce863.png" /> | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740130-e2b772f1-f1af-47b8-86eb-de3bf9cb8128.png" /> | <img style="width:25px" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/01/AWS-Logo.png" /> |
+
+Google Cloud (Maps & Storage) | Socket.IO | PWA |
+------------------------------|-----------|-----|
+<img style="width:25px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" /> | <img style="width:25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" /> | <img style="width:25px" src="https://desarrolloweb.com/storage/tag_images/actual/VkZe5Z1PKYJNbH4fz5IsXSJPDrmFC5fXEaxfaxSF.png" /> |
 
 ### Front End
 
-- JavaScript <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" />
-- React <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" />
-- Redux <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" />
-- MUI <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740867-47ba0184-ddf4-47e4-a9e1-a4eb95b2a7b1.png" />
-- Bootstrap <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227771085-becaffb9-beb3-498d-af1a-a52de5c3e59c.png" />
-- ML5 <img style="width:25px" src="https://ml5js.org/static/ml5_logo_purple-88e082b8dc81d8729f95bcc092db90c5.png" />
-- Teachable Machine <img style="width:22px" src="https://i.ytimg.com/an/T2qQGqZxkD0/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg?v=5dc445a2" />
-
+JavaScript | React | Redux | MUI | Bootstrap | ML5 | Teachable Machine |
+-----------|-------|-------|-----|-----------|-----|-------------------|
+<img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" /> | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" /> | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" /> | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227740867-47ba0184-ddf4-47e4-a9e1-a4eb95b2a7b1.png" /> | <img style="width:25px" src="https://user-images.githubusercontent.com/94872647/227771085-becaffb9-beb3-498d-af1a-a52de5c3e59c.png" /> | <img style="width:25px" src="https://ml5js.org/static/ml5_logo_purple-88e082b8dc81d8729f95bcc092db90c5.png" /> | <img style="width:22px" src="https://i.ytimg.com/an/T2qQGqZxkD0/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg?v=5dc445a2" /> |
 
 ### Tools 🛠️
 
