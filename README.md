@@ -9,8 +9,12 @@
 <div align="center">
   
   ### Full Stack Developer in Argentina 🇦🇷
+  
+  ### [💫💫 MY PROJECTS! 💫 💫](https://www.github.com/stars/pedrofanelli/lists/my-stack)
 
 </div>
+
+#### 
 
 Some information about me...
 
