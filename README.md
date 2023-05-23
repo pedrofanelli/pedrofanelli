@@ -22,7 +22,7 @@ Some information about me...
 
 - 🌱 I’m currently learning:
   - TypeScript
-  - AWS
+  - Docker
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/pedro-fanelli/)
   - Gmail: pedrofanelli1@gmail.com
