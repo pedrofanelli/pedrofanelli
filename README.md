@@ -21,8 +21,8 @@
 Some information about me...
 
 - 🌱 I’m currently learning:
-  - TypeScript
-  - Docker
+  - Java
+  - Spring
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/pedro-fanelli/)
   - Gmail: pedrofanelli1@gmail.com
