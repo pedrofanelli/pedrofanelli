@@ -8,11 +8,9 @@
 
 <div align="center">
   
-  ### Full Stack Developer in Argentina 🇦🇷
+  ### Java Web Developer in Argentina 🇦🇷
   
   ### [💫 Projects in GitHub 💫](https://www.github.com/stars/pedrofanelli/lists/my-stack)
-  
-  ### [💫 PORTFOLIO 💫](https://d2ck99rhn8lygf.cloudfront.net/)
 
 </div>
 
@@ -31,6 +29,10 @@ Some information about me...
 ## Tecnologies
 
 ### Back End
+
+*Spring Boot* | *Spring Cloud* | *Spring Data* | *Kafka* | *Redis* |
+--------------|----------------|---------------|---------|---------|
+<img style="width:30px" src="https://i2.wp.com/curiotek.com/wp-content/uploads/2017/06/Spring-Logo.png?fit=851%2C446&ssl=1" /> | <img style="width:30px" src="https://static.javatpoint.com/tutorial/spring-cloud/images/spring-cloud.png" /> | <img style="width:30px" src="https://i2.wp.com/curiotek.com/wp-content/uploads/2017/06/Spring-Logo.png?fit=851%2C446&ssl=1" /> | <img style="width:30px" src="https://miro.medium.com/v2/resize:fit:600/1*8PyBStycrazhmir_mm7fQw.jpeg" /> | <img style="width:30px" src="https://www.tothenew.com/blog/wp-content/uploads/2023/09/redis_logo-1.png" />
 
 *Node.js* | *Express* | *JWT* | *PostgreSQL* | *Sequelize* | *MongoDB* | *Mongoose* | *AWS (S3, R53, EB, CF)* |
 --------|---------|-----|------------|-----------|---------|----------|-----------------------|
